@@ -2,6 +2,10 @@
 
 This is a demo API of Youtube.
 
+## Prerequisite
+
+NodeJS runtime machine (v12, v14, ..)
+
 ## Installation
 
 Install npm packages
@@ -9,7 +13,7 @@ Install npm packages
 npm install
 ```
 
-## Usage
+## Run the project
 
 ```
 npm run start
